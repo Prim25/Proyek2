@@ -1,3 +1,4 @@
 strA = "Hello"
 strB = "World"
 print(strA,strB)
+git add *.py
